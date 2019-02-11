@@ -1,0 +1,41 @@
+/*
+	@package jacobtheme
+*/
+
+.jacob-form,
+.jacob-sidebar-preview {
+	display: inline-block;
+	float: left;
+}
+
+.jacob-sidebar-preview {
+	width: 280px;
+	background-color: #d6d7d8;
+	padding: 20px;
+	text-align: center;
+	margin-right: 20px;
+	-webkit-box-shadow: 2px 14px 32px 0px rgba(173,173,173,1);
+	-moz-box-shadow: 2px 14px 32px 0px rgba(173,173,173,1);
+	box-shadow: 2px 14px 32px 0px rgba(173,173,173,1);
+}
+
+.jacob-username {
+	color: #000;
+}
+
+.jacob-description {
+	color: #000;
+} 
+
+.profile-picture {
+	width: 100px;
+	height: 100px;
+	overflow: hidden;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+

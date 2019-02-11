@@ -1,0 +1,233 @@
+[06-Feb-2019 11:46:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_functions() in /app/public/wp-content/themes/jacobtheme/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/jacobtheme/index.php on line 3
+[06-Feb-2019 11:46:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_functions() in /app/public/wp-content/themes/jacobtheme/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/jacobtheme/index.php on line 3
+[06-Feb-2019 11:46:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_functions() in /app/public/wp-content/themes/jacobtheme/index.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/jacobtheme/index.php on line 3
+[06-Feb-2019 12:22:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_files_uri() in /app/public/wp-content/themes/jacobtheme/functions.php:5
+Stack trace:
+#0 /app/public/wp-includes/class-wp-hook.php(286): all_files('')
+#1 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /app/public/wp-includes/script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 /app/public/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /app/public/wp-includes/general-template.php(2614): do_action('wp_head')
+#8 /app/public/wp-content/themes/jacobtheme/header.php(4): wp_head()
+#9 /app/public/wp-includes/template.php(688): require_once('/app/public/wp-...')
+#10 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#11 /app/public/wp-includes/genera in /app/public/wp-content/themes/jacobtheme/functions.php on line 5
+[06-Feb-2019 12:22:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_files_uri() in /app/public/wp-content/themes/jacobtheme/functions.php:5
+Stack trace:
+#0 /app/public/wp-includes/class-wp-hook.php(286): all_files('')
+#1 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /app/public/wp-includes/script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 /app/public/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /app/public/wp-includes/general-template.php(2614): do_action('wp_head')
+#8 /app/public/wp-content/themes/jacobtheme/header.php(4): wp_head()
+#9 /app/public/wp-includes/template.php(688): require_once('/app/public/wp-...')
+#10 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#11 /app/public/wp-includes/genera in /app/public/wp-content/themes/jacobtheme/functions.php on line 5
+[06-Feb-2019 12:22:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_files_uri() in /app/public/wp-content/themes/jacobtheme/functions.php:5
+Stack trace:
+#0 /app/public/wp-includes/class-wp-hook.php(286): all_files('')
+#1 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /app/public/wp-includes/script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 /app/public/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /app/public/wp-includes/general-template.php(2614): do_action('wp_head')
+#8 /app/public/wp-content/themes/jacobtheme/header.php(4): wp_head()
+#9 /app/public/wp-includes/template.php(688): require_once('/app/public/wp-...')
+#10 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#11 /app/public/wp-includes/genera in /app/public/wp-content/themes/jacobtheme/functions.php on line 5
+[06-Feb-2019 12:22:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_files_uri() in /app/public/wp-content/themes/jacobtheme/functions.php:5
+Stack trace:
+#0 /app/public/wp-includes/class-wp-hook.php(286): all_files('')
+#1 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /app/public/wp-includes/script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 /app/public/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /app/public/wp-includes/general-template.php(2614): do_action('wp_head')
+#8 /app/public/wp-content/themes/jacobtheme/header.php(4): wp_head()
+#9 /app/public/wp-includes/template.php(688): require_once('/app/public/wp-...')
+#10 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#11 /app/public/wp-includes/genera in /app/public/wp-content/themes/jacobtheme/functions.php on line 5
+[06-Feb-2019 12:22:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_files_uri() in /app/public/wp-content/themes/jacobtheme/functions.php:5
+Stack trace:
+#0 /app/public/wp-includes/class-wp-hook.php(286): all_files('')
+#1 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /app/public/wp-includes/script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 /app/public/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /app/public/wp-includes/general-template.php(2614): do_action('wp_head')
+#8 /app/public/wp-content/themes/jacobtheme/header.php(4): wp_head()
+#9 /app/public/wp-includes/template.php(688): require_once('/app/public/wp-...')
+#10 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#11 /app/public/wp-includes/genera in /app/public/wp-content/themes/jacobtheme/functions.php on line 5
+[06-Feb-2019 12:23:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_files_uri() in /app/public/wp-content/themes/jacobtheme/functions.php:5
+Stack trace:
+#0 /app/public/wp-includes/class-wp-hook.php(286): all_files('')
+#1 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /app/public/wp-includes/script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 /app/public/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /app/public/wp-includes/general-template.php(2614): do_action('wp_head')
+#8 /app/public/wp-content/themes/jacobtheme/header.php(4): wp_head()
+#9 /app/public/wp-includes/template.php(688): require_once('/app/public/wp-...')
+#10 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#11 /app/public/wp-includes/genera in /app/public/wp-content/themes/jacobtheme/functions.php on line 5
+[06-Feb-2019 14:03:37 UTC] PHP Warning:  Use of undefined constant FUNC_PLUGIN_LIB - assumed 'FUNC_PLUGIN_LIB' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/jacobtheme/functions.php on line 7
+[06-Feb-2019 14:03:37 UTC] PHP Warning:  Use of undefined constant FUNC_PLUGIN_LIB - assumed 'FUNC_PLUGIN_LIB' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/jacobtheme/functions.php on line 7
+[06-Feb-2019 14:03:39 UTC] PHP Warning:  Use of undefined constant FUNC_PLUGIN_LIB - assumed 'FUNC_PLUGIN_LIB' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/jacobtheme/functions.php on line 7
+[06-Feb-2019 14:03:39 UTC] PHP Warning:  Use of undefined constant FUNC_PLUGIN_LIB - assumed 'FUNC_PLUGIN_LIB' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/jacobtheme/functions.php on line 7
+[06-Feb-2019 14:03:39 UTC] PHP Warning:  Use of undefined constant FUNC_PLUGIN_LIB - assumed 'FUNC_PLUGIN_LIB' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/jacobtheme/functions.php on line 7
+[06-Feb-2019 14:03:39 UTC] PHP Warning:  Use of undefined constant FUNC_PLUGIN_LIB - assumed 'FUNC_PLUGIN_LIB' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/jacobtheme/functions.php on line 7
+[06-Feb-2019 14:45:06 UTC] PHP Parse error:  syntax error, unexpected ''/js/script.js'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /app/public/wp-content/themes/jacobtheme/functions.php on line 4
+[06-Feb-2019 14:45:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_uri() in /app/public/wp-content/themes/jacobtheme/functions.php:4
+Stack trace:
+#0 /app/public/wp-includes/class-wp-hook.php(286): all_files('')
+#1 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /app/public/wp-includes/script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 /app/public/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /app/public/wp-includes/general-template.php(2614): do_action('wp_head')
+#8 /app/public/wp-content/themes/jacobtheme/header.php(4): wp_head()
+#9 /app/public/wp-includes/template.php(688): require_once('/app/public/wp-...')
+#10 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', true)
+#11 /app/public/wp-includes/general-temp in /app/public/wp-content/themes/jacobtheme/functions.php on line 4
+[06-Feb-2019 16:01:53 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /app/public/wp-includes/post-template.php on line 284
+[06-Feb-2019 16:02:46 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /app/public/wp-includes/post-template.php on line 284
+[06-Feb-2019 16:02:49 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /app/public/wp-includes/post-template.php on line 284
+[06-Feb-2019 16:03:10 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /app/public/wp-includes/post-template.php on line 284
+[06-Feb-2019 16:04:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function have_post() in /app/public/wp-content/themes/jacobtheme/single.php:2
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/jacobtheme/single.php on line 2
+[07-Feb-2019 16:59:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/jacobtheme/functions.php on line 41
+[07-Feb-2019 17:00:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/jacobtheme/functions.php on line 41
+[07-Feb-2019 17:00:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/jacobtheme/functions.php on line 41
+[07-Feb-2019 17:00:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/jacobtheme/functions.php on line 41
+[07-Feb-2019 17:00:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/jacobtheme/functions.php on line 41
+[07-Feb-2019 17:00:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/jacobtheme/functions.php on line 41
+[07-Feb-2019 17:00:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/jacobtheme/functions.php on line 41
+[07-Feb-2019 17:00:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/jacobtheme/functions.php on line 41
+[07-Feb-2019 17:00:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/jacobtheme/functions.php on line 41
+[07-Feb-2019 17:00:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/jacobtheme/functions.php on line 41
+[07-Feb-2019 17:00:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/jacobtheme/functions.php on line 41
+[07-Feb-2019 17:00:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/jacobtheme/functions.php on line 41
+[07-Feb-2019 17:00:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/jacobtheme/functions.php on line 41
+[07-Feb-2019 17:01:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/jacobtheme/functions.php on line 41
+[07-Feb-2019 17:01:15 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/jacobtheme/functions.php on line 41
+[07-Feb-2019 17:01:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/jacobtheme/functions.php on line 41
+[08-Feb-2019 13:52:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-includes/formatting.php:5101) in /app/public/wp-includes/pluggable.php on line 1223
+[09-Feb-2019 17:26:09 UTC] PHP Parse error:  syntax error, unexpected ')' in /app/public/wp-content/themes/jacobtheme/inc/function-admin.php on line 15
+[09-Feb-2019 17:27:18 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /app/public/wp-content/themes/jacobtheme/inc/function-admin.php on line 19
+[09-Feb-2019 17:27:19 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /app/public/wp-content/themes/jacobtheme/inc/function-admin.php on line 19
+[09-Feb-2019 17:30:15 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'dashicons-admin-customizer' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[09-Feb-2019 17:30:43 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'dashicons-admin-customizer' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[09-Feb-2019 17:30:47 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'dashicons-admin-customizer' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[09-Feb-2019 17:36:50 UTC] PHP Parse error:  syntax error, unexpected '}' in /app/public/wp-content/themes/jacobtheme/inc/function-admin.php on line 19
+[09-Feb-2019 17:47:14 UTC] PHP Warning:  require_once(../templates/jacob-admin.php): failed to open stream: No such file or directory in /app/public/wp-content/themes/jacobtheme/inc/function-admin.php on line 25
+[09-Feb-2019 17:47:14 UTC] PHP Fatal error:  require_once(): Failed opening required '../templates/jacob-admin.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/wp-content/themes/jacobtheme/inc/function-admin.php on line 25
+[09-Feb-2019 17:47:26 UTC] PHP Warning:  require_once(./templates/jacob-admin.php): failed to open stream: No such file or directory in /app/public/wp-content/themes/jacobtheme/inc/function-admin.php on line 25
+[09-Feb-2019 17:47:26 UTC] PHP Fatal error:  require_once(): Failed opening required './templates/jacob-admin.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/wp-content/themes/jacobtheme/inc/function-admin.php on line 25
+[10-Feb-2019 13:30:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function settings_error() in /app/public/wp-content/themes/jacobtheme/inc/templates/jacob-admin.php:2
+Stack trace:
+#0 /app/public/wp-content/themes/jacobtheme/inc/function-admin.php(43): require_once()
+#1 /app/public/wp-includes/class-wp-hook.php(286): jacob_theme_create_page('')
+#2 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /app/public/wp-admin/admin.php(224): do_action('toplevel_page_j...')
+#5 {main}
+  thrown in /app/public/wp-content/themes/jacobtheme/inc/templates/jacob-admin.php on line 2
+[10-Feb-2019 13:40:57 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, function 'jacob_sidebar_twitter' not found or invalid function name in /app/public/wp-admin/includes/template.php on line 1530
+[10-Feb-2019 13:49:36 UTC] PHP Fatal error:  Only variables can be passed by reference in /app/public/wp-content/themes/jacobtheme/inc/function-admin.php on line 57
+[10-Feb-2019 14:04:12 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, function 'jacob_sidebar_description' not found or invalid function name in /app/public/wp-admin/includes/template.php on line 1530
+[10-Feb-2019 14:33:12 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, function 'jacob_sidebar_description' not found or invalid function name in /app/public/wp-admin/includes/template.php on line 1530
+[10-Feb-2019 15:47:48 UTC] PHP Parse error:  syntax error, unexpected '}' in /app/public/wp-content/themes/jacobtheme/inc/function-admin.php on line 47
+[10-Feb-2019 16:08:40 UTC] PHP Parse error:  syntax error, unexpected '']" value="1">'' (T_CONSTANT_ENCAPSED_STRING) in /app/public/wp-content/themes/jacobtheme/inc/function-admin.php on line 63
+[10-Feb-2019 16:11:59 UTC] PHP Warning:  Illegal string offset 'aside' in /app/public/wp-content/themes/jacobtheme/inc/function-admin.php on line 64
+[10-Feb-2019 16:11:59 UTC] PHP Warning:  Illegal string offset 'gallery' in /app/public/wp-content/themes/jacobtheme/inc/function-admin.php on line 64
+[10-Feb-2019 16:11:59 UTC] PHP Warning:  Illegal string offset 'link' in /app/public/wp-content/themes/jacobtheme/inc/function-admin.php on line 64
+[10-Feb-2019 16:11:59 UTC] PHP Warning:  Illegal string offset 'image' in /app/public/wp-content/themes/jacobtheme/inc/function-admin.php on line 64
+[10-Feb-2019 16:11:59 UTC] PHP Warning:  Illegal string offset 'quote' in /app/public/wp-content/themes/jacobtheme/inc/function-admin.php on line 64
+[10-Feb-2019 16:11:59 UTC] PHP Warning:  Illegal string offset 'status' in /app/public/wp-content/themes/jacobtheme/inc/function-admin.php on line 64
+[10-Feb-2019 16:11:59 UTC] PHP Warning:  Illegal string offset 'video' in /app/public/wp-content/themes/jacobtheme/inc/function-admin.php on line 64
+[10-Feb-2019 16:11:59 UTC] PHP Warning:  Illegal string offset 'audio' in /app/public/wp-content/themes/jacobtheme/inc/function-admin.php on line 64
+[10-Feb-2019 16:11:59 UTC] PHP Warning:  Illegal string offset 'chat' in /app/public/wp-content/themes/jacobtheme/inc/function-admin.php on line 64
+[10-Feb-2019 17:11:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/jacobtheme/inc/custom-post-type.php on line 26
+[10-Feb-2019 21:56:58 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function add_filter(), 0 passed in /app/public/wp-content/themes/jacobtheme/inc/custom-post-type.php on line 15 and at least 2 expected in /app/public/wp-includes/plugin.php:106
+Stack trace:
+#0 /app/public/wp-content/themes/jacobtheme/inc/custom-post-type.php(15): add_filter()
+#1 /app/public/wp-content/themes/jacobtheme/functions.php(6): require('/app/public/wp-...')
+#2 /app/public/wp-settings.php(443): include('/app/public/wp-...')
+#3 /app/public/wp-config.php(76): require_once('/app/public/wp-...')
+#4 /app/public/wp-load.php(37): require_once('/app/public/wp-...')
+#5 /app/public/wp-admin/admin-ajax.php(22): require_once('/app/public/wp-...')
+#6 {main}
+  thrown in /app/public/wp-includes/plugin.php on line 106
+[10-Feb-2019 22:08:28 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function jacob_contact_custom_column(), 1 passed in /app/public/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /app/public/wp-content/themes/jacobtheme/inc/custom-post-type.php:50
+Stack trace:
+#0 /app/public/wp-includes/class-wp-hook.php(288): jacob_contact_custom_column('message')
+#1 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /app/public/wp-admin/includes/class-wp-posts-list-table.php(1162): do_action('manage_jacob-co...', 'message', 133)
+#4 /app/public/wp-admin/includes/class-wp-list-table.php(1254): WP_Posts_List_Table->column_default(Object(WP_Post), 'message')
+#5 /app/public/wp-admin/includes/class-wp-posts-list-table.php(1195): WP_List_Table->single_row_columns(Object(WP_Post))
+#6 /app/public/wp-admin/includes/class-wp-posts-list-table.php(659): WP_Posts_List_Table->single_row(Object(WP_Post), 0)
+#7 /app/public/wp-admin/inc in /app/public/wp-content/themes/jacobtheme/inc/custom-post-type.php on line 50
+[10-Feb-2019 22:16:11 UTC] PHP Parse error:  syntax error, unexpected ',' in /app/public/wp-content/themes/jacobtheme/inc/custom-post-type.php on line 64
+[10-Feb-2019 22:29:13 UTC] PHP Parse error:  syntax error, unexpected ',' in /app/public/wp-content/themes/jacobtheme/inc/custom-post-type.php on line 83
+[10-Feb-2019 22:31:13 UTC] PHP Parse error:  syntax error, unexpected ',' in /app/public/wp-content/themes/jacobtheme/inc/custom-post-type.php on line 83
+[10-Feb-2019 22:33:13 UTC] PHP Parse error:  syntax error, unexpected ',' in /app/public/wp-content/themes/jacobtheme/inc/custom-post-type.php on line 84
+[10-Feb-2019 22:33:15 UTC] PHP Parse error:  syntax error, unexpected ',' in /app/public/wp-content/themes/jacobtheme/inc/custom-post-type.php on line 84
+[10-Feb-2019 22:33:15 UTC] PHP Parse error:  syntax error, unexpected ',' in /app/public/wp-content/themes/jacobtheme/inc/custom-post-type.php on line 84
+[10-Feb-2019 22:47:55 UTC] PHP Fatal error:  Cannot redeclare jacob_activate_contact() (previously declared in /app/public/wp-content/themes/jacobtheme/inc/function-admin.php:76) in /app/public/wp-content/themes/jacobtheme/inc/function-admin.php on line 93
+[10-Feb-2019 22:49:55 UTC] PHP Fatal error:  Cannot redeclare jacob_activate_contact() (previously declared in /app/public/wp-content/themes/jacobtheme/inc/function-admin.php:76) in /app/public/wp-content/themes/jacobtheme/inc/function-admin.php on line 94
+[10-Feb-2019 22:50:49 UTC] PHP Fatal error:  Cannot redeclare jacob_activate_contact() (previously declared in /app/public/wp-content/themes/jacobtheme/inc/function-admin.php:76) in /app/public/wp-content/themes/jacobtheme/inc/function-admin.php on line 94
+[10-Feb-2019 22:50:58 UTC] PHP Fatal error:  Cannot redeclare jacob_activate_contact() (previously declared in /app/public/wp-content/themes/jacobtheme/inc/function-admin.php:76) in /app/public/wp-content/themes/jacobtheme/inc/function-admin.php on line 94
+[10-Feb-2019 22:55:19 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /app/public/wp-content/themes/jacobtheme/inc/enqueue.php on line 24
+[10-Feb-2019 23:22:02 UTC] PHP Parse error:  syntax error, unexpected ')' in /app/public/wp-content/themes/jacobtheme/inc/enqueue.php on line 25
+[11-Feb-2019 06:53:47 UTC] PHP Parse error:  syntax error, unexpected '.0' (T_DNUMBER), expecting ',' or ')' in /app/public/wp-content/themes/jacobtheme/inc/enqueue.php on line 46
+[11-Feb-2019 06:53:55 UTC] PHP Parse error:  syntax error, unexpected '.0' (T_DNUMBER), expecting ',' or ')' in /app/public/wp-content/themes/jacobtheme/inc/enqueue.php on line 46
+[11-Feb-2019 06:54:04 UTC] PHP Parse error:  syntax error, unexpected '.0' (T_DNUMBER), expecting ',' or ')' in /app/public/wp-content/themes/jacobtheme/inc/enqueue.php on line 46
+[11-Feb-2019 06:54:14 UTC] PHP Parse error:  syntax error, unexpected '.0' (T_DNUMBER), expecting ',' or ')' in /app/public/wp-content/themes/jacobtheme/inc/enqueue.php on line 46
+[11-Feb-2019 07:20:11 UTC] PHP Parse error:  syntax error, unexpected ')' in /app/public/wp-content/themes/jacobtheme/inc/theme-support.php on line 23
+[11-Feb-2019 07:21:12 UTC] PHP Parse error:  syntax error, unexpected ')' in /app/public/wp-content/themes/jacobtheme/inc/theme-support.php on line 23
+[11-Feb-2019 07:23:13 UTC] PHP Parse error:  syntax error, unexpected ')' in /app/public/wp-content/themes/jacobtheme/inc/theme-support.php on line 23
+[11-Feb-2019 07:25:14 UTC] PHP Parse error:  syntax error, unexpected ')' in /app/public/wp-content/themes/jacobtheme/inc/theme-support.php on line 23
+[11-Feb-2019 07:27:15 UTC] PHP Parse error:  syntax error, unexpected ')' in /app/public/wp-content/themes/jacobtheme/inc/theme-support.php on line 23
+[11-Feb-2019 07:29:16 UTC] PHP Parse error:  syntax error, unexpected ')' in /app/public/wp-content/themes/jacobtheme/inc/theme-support.php on line 23
+[11-Feb-2019 07:49:59 UTC] PHP Parse error:  syntax error, unexpected ')' in /app/public/wp-content/themes/jacobtheme/inc/theme-support.php on line 23
